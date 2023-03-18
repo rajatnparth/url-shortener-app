@@ -35,3 +35,6 @@ Please Note-
 
 
 
+# JMeter Analysis
+1. The initial version of app (without cache) took close to 100ms per call for multiple fetch operations of same shortened URL
+2. Post implementation of cache, it took less than 10 ms per call for multiple fetch operations of same shortened URL
