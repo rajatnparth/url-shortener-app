@@ -1,0 +1,1 @@
+create table url_details_1 (id bigint not null, url varchar(255), short_url varchar(255), primary key(id));
